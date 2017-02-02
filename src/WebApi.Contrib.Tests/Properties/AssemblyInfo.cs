@@ -4,12 +4,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("WebApi.Contrib")]
-[assembly: AssemblyDescription("A contribution to the Microsoft.AspNet.WebApi")]
+[assembly: AssemblyTitle("WebApi.Contrib.Tests")]
+[assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Dev One")]
-[assembly: AssemblyProduct("WebApi.Contrib")]
-[assembly: AssemblyCopyright("Copyright © Dev One 2017")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("WebApi.Contrib.Tests")]
+[assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -19,4 +19,4 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("e044adb2-a680-48c6-947c-c52155dcdb44")]
+[assembly: Guid("5ae0b474-e5e7-4385-8620-02730f081d93")]
