@@ -70,6 +70,7 @@
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Results\NoContentResultTests.cs" />
+    <Compile Include="Results\LocationResultTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\WebApi.Contrib\WebApi.Contrib.csproj">
