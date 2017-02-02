@@ -57,6 +57,7 @@
     </Compile>
     <Compile Include="ExtendedApiController.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Results\NoContentResult.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
