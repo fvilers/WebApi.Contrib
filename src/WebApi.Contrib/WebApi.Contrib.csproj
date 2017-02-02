@@ -58,6 +58,7 @@
     <Compile Include="ExtendedApiController.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Results\LocationResult.cs" />
+    <Compile Include="Results\MovedPermanentlyResult.cs" />
     <Compile Include="Results\NoContentResult.cs" />
     <Compile Include="Results\RouteLocationResult.cs" />
   </ItemGroup>
